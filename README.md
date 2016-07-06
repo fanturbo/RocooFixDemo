@@ -4,7 +4,7 @@
 
 1.正常运行demo
 
-2.HelloHack类的showHello方法返回值修改下rocoofix---rocoofix_change(即代表着需要修改的补丁位置)
+2.HelloHack类的showHello方法返回值修改下rocoofix--->rocoofix_change(即代表着需要修改的补丁位置)
 
 3.将build.gradle文件夹下的versionCode 1 改成versionCode 2;preVersionPath = '1'注释取消
 
